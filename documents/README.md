@@ -27,6 +27,16 @@ python .\documents\convert-local-pdfs.py
 - [C 题](C/README.md)
 - [D 题](D/README.md)
 - [E 题](E/README.md)
+- [本地优秀论文库与文件索引](papers/README.md)
+
+本地论文库可通过以下命令增量下载和维护：
+
+```powershell
+python .\documents\papers\fetch_library.py
+```
+
+论文 PDF 受仓库的忽略规则保护，不会被误提交到公开仓库；`papers/README.md` 与
+`papers/index.json` 只保存文件索引、来源和核验状态。
 
 ## 官方归档
 
