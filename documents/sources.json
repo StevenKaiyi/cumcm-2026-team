@@ -1,0 +1,41 @@
+{
+  "archive_page": "https://www.mcm.edu.cn/html_cn/block/8579f5fce999cdc896f78bca5d4f8237.html",
+  "retrieved_on": "2026-08-19",
+  "archives": [
+    {
+      "year": 2025,
+      "page": "https://www.mcm.edu.cn/html_cn/node/03c91a444e62eee81a3740fa97a461a6.html",
+      "url": "https://www.mcm.edu.cn/upload_cn/node/759/SvpohSGacdffe718bcaa3b6e835c03ae3461cab1.zip",
+      "bytes": 52097165,
+      "sha256": "cef6262c24ee3017bdab4ca255299c7b47b2700ad89fd773addde7e241e7e4de"
+    },
+    {
+      "year": 2024,
+      "page": "https://www.mcm.edu.cn/html_cn/node/a0c1fb5c31d43551f08cd8ad16870444.html",
+      "url": "https://www.mcm.edu.cn/upload_cn/node/725/pmkWxf8H9cfe9984c1a1a5b1263e5dd3b5596ed5.zip",
+      "bytes": 105537539,
+      "sha256": "38d9effcede947354f9e9a9c2b4fc68947d83a77c2ff75737e9a662888158726"
+    },
+    {
+      "year": 2023,
+      "page": "https://www.mcm.edu.cn/html_cn/node/c74d72127066f510a5723a94b5323a26.html",
+      "url": "https://www.mcm.edu.cn/upload_cn/node/690/Y20WPner9fa62862794e6dc82731a5561ce1132f.rar",
+      "bytes": 41797492,
+      "sha256": "37b1010672adcf35831e798264cc69db616027f2287cfeae3c4ee6daf03ae4e6"
+    },
+    {
+      "year": 2022,
+      "page": "https://www.mcm.edu.cn/html_cn/node/388239ded4b057d37b7b8e51e33fe903.html",
+      "url": "https://www.mcm.edu.cn/upload_cn/node/670/5eWlbmTt28f88a0815a79d555da8b7072f971633.rar",
+      "bytes": 10856296,
+      "sha256": "c27eb1b665f070341e134f5dc13bb2af469230424ff2eedabf594eee708bfee4"
+    },
+    {
+      "year": 2021,
+      "page": "https://www.mcm.edu.cn/html_cn/node/90d223833c1eb50f899aa096a66c6896.html",
+      "url": "https://www.mcm.edu.cn/upload_cn/node/669/HtbJEt9Nb655e46bebfa2a66ec63f940e2da156b.rar",
+      "bytes": 46206197,
+      "sha256": "3391573f546fce4511e9a99c24c386e28203d8fee3d29bb2dccada5921cefe7b"
+    }
+  ]
+}

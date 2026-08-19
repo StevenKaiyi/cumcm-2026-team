@@ -25,6 +25,8 @@ Thumbs.db
 data/
 outputs/
 artifacts/
+tmp/
+documents/_local/
 *.log
 
 # LaTeX build products
