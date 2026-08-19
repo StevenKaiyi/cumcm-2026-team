@@ -43,4 +43,7 @@ documents/_local/
 
 # Keep source documents; ignore generated PDFs by default
 *.pdf
+
+# Local-only CUMCM paper/review corpus. Keep generated indexes and fetch script trackable.
+documents/papers/reviews/**/*.md
 !references/**/*.pdf
